@@ -1,0 +1,14 @@
+aa02a8e65b060040950926b5e516d7bf MANIFEST.M65K.correspondence.yml
+f4cea42fb75dc240a5c31b0eee9856ed MANIFEST.M65K.descriptions.yml
+0343b4beec430fcb6d9ec5e8f6088157 README.M65K.yml
+30cdef6fe95f68a00889f845c9556c73 legume.genefam.fam1.M65K.family_fasta.tar.gz
+9978cffddd6b4046a0544ceab82d52b3 legume.genefam.fam1.M65K.hmm.tar.gz
+7dbacb813770abc1bfb3591deaf13282 legume.genefam.fam1.M65K.hmmalign.tar.gz
+51c611432282773aa6c8edc1279f08b9 legume.genefam.fam1.M65K.hmmalign_trim.tar.gz
+ba4b5f44108730a1e09e2b2ef3bbcb5a legume.genefam.fam1.M65K.hmmemit.tar.gz
+94c2c15537eb410ffb533f7472d3b134 legume.genefam.fam1.M65K.info_annot_ahrd.tsv.gz
+ef5c6f51f70eeb984f10940f040c0484 legume.genefam.fam1.M65K.info_fam_composition_list.tsv.gz
+49f464efa8f9b15f3cdf04304df0d9a4 legume.genefam.fam1.M65K.info_fam_composition_sum.tsv.gz
+46520ab9e3df06950028a9ac9774ab3b legume.genefam.fam1.M65K.median_abs_dev.tsv.gz
+475e09d316ea343839f3864f7b7416b0 legume.genefam.fam1.M65K.proteomes.tar.gz
+37746c575630acf6571cedaef320574f legume.genefam.fam1.M65K.trees_ML_rooted.tar.gz

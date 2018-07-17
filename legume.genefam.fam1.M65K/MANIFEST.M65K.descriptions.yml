@@ -1,0 +1,12 @@
+# filename_in_this_repository: description
+  legume.genefam.fam1.M65K.family_fasta.tar.gz: fasta files for these families
+  legume.genefam.fam1.M65K.hmm.tar.gz: HMMs of alignments for these families
+  legume.genefam.fam1.M65K.hmmalign.tar.gz: fasta sequence aligned to HMM for each family
+  legume.genefam.fam1.M65K.hmmalign_trim.tar.gz: alignments trimmed of "non-match" regions from HMM
+  legume.genefam.fam1.M65K.hmmemit.tar.gz: emitted consensus sequence for each family
+  legume.genefam.fam1.M65K.info_annot_ahrd.tsv.gz: functional annotations/descriptors, calculated using the AHRD pipeline
+  legume.genefam.fam1.M65K.info_fam_composition_list.tsv.gz: species composition, as list of species of each sequence in each family
+  legume.genefam.fam1.M65K.info_fam_composition_sum.tsv.gz: species composition for each family, as summary counts 
+  legume.genefam.fam1.M65K.proteomes.tar.gz: proteomes used in constructing these families
+  legume.genefam.fam1.M65K.trees_ML_rooted.tar.gz: trees calculated using RAxML and rooted by representative outgroup where available
+  legume.genefam.fam1.M65K.median_abs_dev.tsv.gz: median and median-absolute-deviation for hmmsearch scores of a set of founding sequences initially placed into a family. Useful for identifying low-scoring sequences.

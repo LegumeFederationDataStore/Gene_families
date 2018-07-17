@@ -1,0 +1,58 @@
+identifier: M65K
+
+provenance: The files in this directory are considered the primary instancess. The files here are held as part of the LegumeFederation and associated projects, e.g. LegumeInfo, PeanutBase, etc.
+
+source: https://legumefederation.org/data/public and mirrored at LegumeInfo and affiliated sites.
+
+subject: gene families and phylogenetic trees for the legume family
+
+related_to: Proteomes for the associated species: aradu arahy araip cajca cicar glyma lotja lupan medtr phavu tripr vigan vigra vigun. Also see repository of scripts and notes used for creation of the gene fa
+milies here: https://legumeinfo.org/data/public/Gene_families/legume.genefam.fam1.M65K/
+
+scientific_name: Fabaceae
+
+taxid: 3803
+
+bioproject: none
+
+scientific_name_abbrev: legume
+
+genotype: genefam
+
+description: Files in this directory include the main results for gene families constructed for the legume family. Methods are documented at https://github.com/LegumeFederation/legfed_gene_families. Briefly, the methods are based on gene pairs filtered for per-species Ks values. These were clustered using Markov clustering. Sequence match scores of each sequence in a family were used to identify outliers, on the basis of score value relative to the median score for the family. Remaining sequences were re-clustered, added to the HMM set. Then all sequences were searched against all HMMs, realigned, re-screened relative to median match score, and finally used to generate alignments and phylogenetic trees (using RAxML). The trees are rooted, when possible, using the closest outgroup from among five outgroup species: Arabidopsis thaliana, Prunus persica, Cucumis sativa, Solanum lycopersicum, and Vitis vinifera.
+
+dataset_doi: none
+
+genbank_accession: none
+
+original_file_creation_date: 2018-03-21
+
+local_file_creation_date: 2018-03-23
+
+publication_doi: none
+
+dataset_release_date: 2018-03-23
+
+publication_title: none
+
+contributors: Steven Cannon, David Fernandez-Baca, Akshay Yadav, Jacob Stai, Andrew Farmer
+
+data_curators: Steven Cannon
+
+public_access_level: public
+
+license: open
+
+keywords: legumes, gene family, Glycine max, Phaseolus vulgaris, Vigna angularis, Vigna radiata, Vigna unguiculata, Cajanus cajan, Medicago truncatula, Cicer arietinum, Trifolium pratense, Lotus japonicus, Lupinus angustifolius, Arachis duranensis, Arachis ipaensis, Arachis hypogaea
+
+citations: Legume Federation project gene families, NSF DBI 1444806
+
+file_transformation: 
+  - none
+
+changes: 
+  - 2018-03-21 Initial repository creation
+  - 2018-03-24 Remove five small families that had complete attrition at alignment cleaning due to poor alignments: L_ZG7XJG L_ZN318S L_ZQ0R57 L_ZQ6V3Z L_ZRCCM5 L_ZTLHG9
+  - 2018-04-12 Add file legume.genefam.fam1.M65K.median_abs_dev.tsv.gz
+  - 2018-04-17 Correct two keywords in README
+  - 2018-06-07 Correct gene trees (calculate branch lengths with FastTree) for 16 large files for which branch lengths had been missing. This affected legume.genefam.fam1.M65K.trees_ML_rooted.tar.gz
