@@ -1,0 +1,17 @@
+%YAML 1.2
+# filename_in_this_repository: description
+legume.genefam.esm.RDQM.SD01_65_hmmalign.tar.gz Full alignments of all legume gene families that contain Cercis and/or Bauhinia.
+legume.genefam.esm.RDQM.SD02_65_hmmalign_trim2.tar.gz Alignments of all legume gene families that contain Cercis and/or Bauhinia, trimmed to HMM "match states", prior to calculation of phylogenetic trees.
+legume.genefam.esm.RDQM.SD03_70_trees_combined.tar.gz Phylogenetic trees, calculated using RAxML, and rooted by the nearest non-legume outgroup species.
+legume.genefam.esm.RDQM.SD04_71_trees_reduced_trees.tar.gz Phylogenetic trees as in SD03 but with same-species terminal branches reduced to a single sequence representative, for terminals with branch lengths < 0.2.
+legume.genefam.esm.RDQM.SD05_basal_legume_histograms.xlsx Histograms of Ks values for selected species pairs, calculated using top BLAST matches and calculated using gene pairs from genomic synteny features.
+legume.genefam.esm.RDQM.SD06_species_counts_in_gene_families.xlsx Counts of species in legume gene families.
+legume.genefam.esm.RDQM.SD07_tree_legcyc_and_outgrps7boot_color.nh.txt Phylogenetic tree, calculated using RAxML, for CYCLOIDEA-like genes from species in the Cercidoideae.
+legume.genefam.esm.RDQM.SD08_legcyc_genes.xlsx Sequence IDs and accessions for CYCLOIDEA-like genes from species in the Cercidoideae.
+legume.genefam.esm.RDQM.SD09_legume_matK_matrix_and_counts_v05.xlsx Sequences for legume matK genes, and chromosome counts for legume species, with modal chromosome counts per genus.
+legume.genefam.esm.RDQM.SD10_LPWG_chrom_counts_by_genus3_all_colored.pdf Phylogenetic tree image for all legume genera with chromosome counts, with modal chromosome counts per genus, colored by subfamily.
+legume.genefam.esm.RDQM.SD11_LPWG_chrom_counts_by_genus3.tree.txt Phylogenetic tree file, in phylip format, corresponding with the image in SD10.
+legume.genefam.esm.RDQM.SD12_legume_genome_sizes.xlsx Legume genome size estimates.
+legume.genefam.esm.RDQM.SD13_Quota_dotplots.pdf  Synteny plots between Cercis canadensis, Phaseolus vulgaris, and Prunus persica.
+legume.genefam.esm.RDQM.SD14_Results from quota-alignment pipeline for comparisons between Cercis canadensis, Phaseolus vulgaris, and Prunus persica.
+
