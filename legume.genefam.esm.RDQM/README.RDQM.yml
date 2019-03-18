@@ -29,11 +29,11 @@ original_file_creation_date: 2019-02
 
 local_file_creation_date: 2019-02
 
-publication_doi: none
+publication_doi: 10.3389/fpls.2019.00345
 
 dataset_release_date: 2019-02-18
 
-publication_title: none
+publication_title: Cercis: a Non-Polyploid Genomic Relic within the Generally Polyploid Legume Family 
 
 contributors: Steven Cannon, David Fernandez-Baca, Akshay Yadav, Jacob Stai, Andrew Farmer, Carole Sinou, Anne Bruneau
 
@@ -52,4 +52,4 @@ file_transformation:
 
 changes: 
   - 2019-02-18 Initial repository creation
-
+  - 2019-03-18 Change filenames to correspond with publication in Frontiers in Plant Science

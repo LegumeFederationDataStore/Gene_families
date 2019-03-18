@@ -1,17 +1,17 @@
 %YAML 1.2
-#Filename in this repository   prior name
-legume.genefam.esm.RDQM.SD01_65_hmmalign.tar.gz  SD01_65_hmmalign.tar.gz
-legume.genefam.esm.RDQM.SD02_65_hmmalign_trim2.tar.gz  SD02_65_hmmalign_trim2.tar.gz
-legume.genefam.esm.RDQM.SD03_70_trees_combined.tar.gz  SD03_70_trees_combined.tar.gz
-legume.genefam.esm.RDQM.SD04_71_trees_reduced_trees.tar.gz  SD04_71_trees_reduced_trees.tar.gz
-legume.genefam.esm.RDQM.SD05_basal_legume_histograms.xlsx  SD05_basal_legume_histograms.xlsx
-legume.genefam.esm.RDQM.SD06_species_counts_in_gene_families.xlsx  SD06_species_counts_in_gene_families.xlsx
-legume.genefam.esm.RDQM.SD07_tree_legcyc_and_outgrps7boot_color.nh.txt  SD07_tree_legcyc_and_outgrps7boot_color.nh.txt
-legume.genefam.esm.RDQM.SD08_legcyc_genes.xlsx  SD08_legcyc_genes.xlsx
-legume.genefam.esm.RDQM.SD09_legume_matK_matrix_and_counts_v05.xlsx  SD09_legume_matK_matrix_and_counts_v05.xlsx
-legume.genefam.esm.RDQM.SD10_LPWG_chrom_counts_by_genus3_all_colored.pdf  SD10_LPWG_chrom_counts_by_genus3_all_colored.pdf
-legume.genefam.esm.RDQM.SD11_LPWG_chrom_counts_by_genus3.tree.txt  SD11_LPWG_chrom_counts_by_genus3.tree.txt
-legume.genefam.esm.RDQM.SD12_legume_genome_sizes.xlsx  SD12_legume_genome_sizes.xlsx
-legume.genefam.esm.RDQM.SD13_quota_dotplots.pdf  SD13_quota_dotplots.pdf
-legume.genefam.esm.RDQM.SD14_quota_tables.tar.gz  SD14_quota_tables.tar.gz
+# filename_in_this_repository  prior name
+legume.genefam.esm.RDQM.SD01_65_hmmalign.tar.gz SD01_65_hmmalign.tar.gz
+legume.genefam.esm.RDQM.SD02_65_hmmalign_trim2.tar.gz SD02_65_hmmalign_trim2.tar.gz
+legume.genefam.esm.RDQM.SD03_70_trees_combined.tar.gz SD03_70_trees_combined.tar.gz
+legume.genefam.esm.RDQM.SD04_71_trees_reduced_trees.tar.gz SD04_71_trees_reduced_trees.tar.gz
+legume.genefam.esm.RDQM.SD05_tree_legcyc_and_outgrps7boot_color.nh.txt SD05_tree_legcyc_and_outgrps7boot_color.nh.txt
+legume.genefam.esm.RDQM.SD06_LPWG_chrom_counts_by_genus3_all_colored.pdf SD06_LPWG_chrom_counts_by_genus3_all_colored.pdf
+legume.genefam.esm.RDQM.SD07_LPWG_chrom_counts_by_genus3.tree.txt SD07_LPWG_chrom_counts_by_genus3.tree.txt
+legume.genefam.esm.RDQM.SD08_quota_dotplots.pdf SD08_quota_dotplots.pdf
+legume.genefam.esm.RDQM.SD09_quota_tables.tar.gz SD09_quota_tables.tar.gz
+legume.genefam.esm.RDQM.ST01_basal_legume_histograms.xlsx ST01_basal_legume_histograms.xlsx
+legume.genefam.esm.RDQM.ST02_species_counts_in_gene_families.xlsx ST02_species_counts_in_gene_families.xlsx
+legume.genefam.esm.RDQM.ST03_legcyc_genes.xlsx ST03_legcyc_genes.xlsx
+legume.genefam.esm.RDQM.ST04_legume_matK_matrix_and_counts_v05.xlsx ST04_legume_matK_matrix_and_counts_v05.xlsx
+legume.genefam.esm.RDQM.ST05_legume_genome_sizes.xlsx ST05_legume_genome_sizes.xlsx
 
